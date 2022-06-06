@@ -15,8 +15,14 @@ public class Student
 		System.out.print("Enter last name:");
 		String lname=sc.nextLine();
 
+		
+
 		System.out.print("Enter class:");
 		int class=sc.nextInt();
+		
+		System.out.println("Enter percentage %");
+		int percentage=sc.nextInt();
+
 		
 	}
 }
